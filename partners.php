@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<!-- <h5>About</h5> -->
+<!-- <h1>About</h1> -->
 <div class="row">
   <div class="col-md-8">
     <div class="well">
