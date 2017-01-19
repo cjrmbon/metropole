@@ -7,7 +7,8 @@
       <p>The international METROPOLE transdisciplinary applied research initiative was created and implemented by a team of researchers and practitioners in Brazil, the UK and the US.
   Our team members include natural scientists (climate modelling/meteorology,) inter-disciplinary scientists (economic/finance), social scientists (human dimensions of risk and urban disasters, science communications), and practitioners with a range of expertise (civil engineering, disaster planning.)
   In each country, we developed robust collaborations with our municipal partners by integrating their environmental planning and engineering personnel into our process, and our team into their organizational practices. Drawing on their interdisciplinary experience and expertise, we created an integrated approach for engaging and collaborating with decision makers and community stakeholders.
-  </br>Our team included an external Advisory Board comprised of leading experts in each region. They provided invaluable perspectives on local, state and national legislative statues, municipal processes, risk communications, and local authority to creating/revising policy to generate public funds for resiliency improvements.
+  </p>
+      <p>Our team included an external Advisory Board comprised of leading experts in each region. They provided invaluable perspectives on local, state and national legislative statues, municipal processes, risk communications, and local authority to creating/revising policy to generate public funds for resiliency improvements.
    Throughout the grant, our students, researchers, and municipal practitioners were engaged in dynamic discussions.</p>
     </div>
 
